@@ -1,0 +1,28 @@
+@media only screen and (max-width: 590px) {
+    
+    .obrazek-text {
+        padding-bottom: 100px;
+    }
+    
+    .obrazek-text .obr1 {
+        width: 90%;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .obrazek-text .cl1 {
+        width: 90%;
+        padding-top: 10px;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    
+    .obrazek-text .cl1 p {
+        padding-bottom: 10px;
+    }
+    
+   
+    
+   
+}
